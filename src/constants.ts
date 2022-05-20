@@ -15,7 +15,7 @@ export const THAI_IMAGES: DaysImage = {
   WED: 'https://enetrunt.sirv.com/Images/wednesdayTh.jpg',
   THU: 'https://enetrunt.sirv.com/Images/thursdayTh.jpg',
   FRI: 'https://enetrunt.sirv.com/Images/fridayTh.jpg',
-  SAT: 'https://enetrunt.sirv.com/Images/mondayTh.jpg',
+  SAT: 'https://enetrunt.sirv.com/Images/saturdayTh.jpg',
 };
 
 export const ENGLISH_IMAGES: DaysImage = {
@@ -25,5 +25,5 @@ export const ENGLISH_IMAGES: DaysImage = {
   WED: 'https://enetrunt.sirv.com/Images/wednesdayEn.jpg',
   THU: 'https://enetrunt.sirv.com/Images/thursdayEn.jpg',
   FRI: 'https://enetrunt.sirv.com/Images/fridayEn.jpg',
-  SAT: 'https://enetrunt.sirv.com/Images/mondayEn.jpg',
+  SAT: 'https://enetrunt.sirv.com/Images/saturdayEn.jpg',
 };
