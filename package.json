@@ -1,5 +1,5 @@
 {
-  "name": "hello-monday",
+  "name": "@pointmekin/hello-monday",
   "version": "1.0.0",
   "description": "Get greeting messages for each day with the specified language",
   "main": "lib/index.js",
