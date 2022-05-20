@@ -32,4 +32,4 @@ export const getHelloImage = (props: GetHelloImageProps | undefined = undefined)
   return helloImage[day];
 };
 
-getHelloImage({ day:"MON", language:"TH" })
+getHelloImage({ day: 'MON', language: 'TH' });
