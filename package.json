@@ -1,6 +1,6 @@
 {
   "name": "@pointmekin/hello-monday",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get greeting messages for each day with the specified language",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
